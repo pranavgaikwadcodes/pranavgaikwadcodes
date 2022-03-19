@@ -5,7 +5,8 @@
 
 <img style="height:200px; width:300px;" align="right" alt="CodingImg" src="https://user-images.githubusercontent.com/74352611/151704103-f9a7a4a6-4dd5-4076-9d4e-e2f90c8e4176.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavgaikwadcodes&label=Profile%20views&color=0e75b6&style=flat" alt="pranavgaikwadcodes" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavgaikwadcodes&label=Profile%20views&color=0e75b6&style=flat" alt="pranavgaikwadcodes" /> </p> -->
+<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=pranavgaikwadcodes" alt="visitor badge"/> -->
 
 
 - 🔭 I’m currently working on **Web and Native Projects**
