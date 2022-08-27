@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on **Web and Native Projects**
-- 🌱 I’m currently learning **Flutter And React**
+- 🌱 I’m currently learning **MERN**
 - 📫 How to reach me **pranavjigaikwad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
