@@ -9,9 +9,8 @@
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=pranavgaikwadcodes" alt="visitor badge"/> -->
 
 
-- 🔭 I’m currently working on **Web and Native Projects**
-- 🌱 I’m currently learning **MERN**
-- 📫 How to reach me **pranavjigaikwad@gmail.com**
+- 🔭 I’m currently working on **Web Apps and Flutter/React Native Projects**
+- 📫 How to reach me **work.pranavgaikwad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
