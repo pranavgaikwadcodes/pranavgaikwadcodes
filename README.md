@@ -23,7 +23,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pranavgaikwadcodes&show_icons=true&locale=en&theme=tokyonight" alt="pranavgaikwadcodes" style="max-width: 47%;" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgaikwadcodes&theme=tokyonight" alt="pranavgaikwadcodes" style="max-width: 47%;"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgaikwadcodes&theme=tokyonight" alt="pranavgaikwadcodes" style="max-width: 20%;"/></p>
 
 
 
