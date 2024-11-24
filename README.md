@@ -22,8 +22,8 @@
 <a href="https://auth.geeksforgeeks.org/user/pranavjigaikwad" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranavjigaikwad" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pranavgaikwadcodes&show_icons=true&locale=en&theme=tokyonight" alt="pranavgaikwadcodes" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgaikwadcodes&theme=tokyonight" alt="pranavgaikwadcodes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=pranavgaikwadcodes&show_icons=true&locale=en&theme=tokyonight" alt="pranavgaikwadcodes" style="max-width: 47%;" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgaikwadcodes&theme=tokyonight" alt="pranavgaikwadcodes" style="max-width: 47%;"/></p>
 
 
 
