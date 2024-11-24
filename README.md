@@ -3,24 +3,29 @@
 
 <h1 align="center">Hi 👋, I'm Pranav Gaikwad</h1>
 
-<img style="height:200px; width:300px;" align="right" alt="CodingImg" src="https://user-images.githubusercontent.com/74352611/151704103-f9a7a4a6-4dd5-4076-9d4e-e2f90c8e4176.gif" />
+### About Me
+I'm a passionate **Frontend Developer** with 1 year of startup experience. I specialize in building intuitive web and mobile applications using modern technologies like **React**, **Next.js**, and **Flutter**. My goal is to create impactful digital solutions that are both functional and aesthetically pleasing. Currently working towards mastering **DevOps** and **scalable backend development**.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavgaikwadcodes&label=Profile%20views&color=0e75b6&style=flat" alt="pranavgaikwadcodes" /> </p>
 
 - 🔭 I’m currently working on **Web Apps and Flutter/React Native Projects**
 - 📫 How to reach me **work.pranavgaikwad@gmail.com**
+
+
 ### 🚀 Let's Connect!
 Feel free to reach out for collaboration, freelance work, or just to share ideas!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UCkW53yCXueI1CRxOLqcG6MA" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckw53ycxuei1crxolqcg6ma" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pranav-gaikwad-a19088223" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-gaikwad-a19088223" height="30" width="40" /></a>
-<a href="https://instagram.com/pranavgaikwad.11" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranavgaikwad.11" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pranavgaikwad" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pranavgaikwad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pranav_gaikwad" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranav_gaikwad" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pranavjigaikwad" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranavjigaikwad" height="30" width="40" /></a>
-</p>
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.pranavgaikwad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-gaikwad-a19088223)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pranavgaikwad.11)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkW53yCXueI1CRxOLqcG6MA)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pranavgaikwad)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/pranav_gaikwad)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/pranavjigaikwad)
+
+</div>
+
 
 
 ### 🛠️ Skills and Tools  
@@ -65,4 +70,3 @@ Feel free to reach out for collaboration, freelance work, or just to share ideas
 | GitHub Stats | Streak Stats |
 |--------------|--------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavgaikwadcodes&show_icons=true&locale=en&theme=tokyonight&card_width=300) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavgaikwadcodes&theme=tokyonight) |
-
