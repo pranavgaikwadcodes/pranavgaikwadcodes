@@ -37,6 +37,7 @@ Feel free to reach out for collaboration, freelance work, or just to share ideas
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NextAuth](https://img.shields.io/badge/-NextAuth-5E17EB?style=for-the-badge&logo=auth0&logoColor=white)
 ![Recoil](https://img.shields.io/badge/-Recoil-007ACC?style=for-the-badge&logo=recoil&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -58,6 +59,8 @@ Feel free to reach out for collaboration, freelance work, or just to share ideas
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Turborepo](https://img.shields.io/badge/-Turborepo-000000?style=for-the-badge&logo=turborepo&logoColor=white)
+![Monorepo](https://img.shields.io/badge/-Monorepo-FFDD44?style=for-the-badge&logo=monorepo&logoColor=black)
 
 #### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
