@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Gaikwad</h1>
 
 ### About Me
-I'm a passionate **Frontend Developer** with 1 year of startup experience. I specialize in building intuitive web and mobile applications using modern technologies like **React**, **Next.js**, and **Flutter**. My goal is to create impactful digital solutions that are both functional and aesthetically pleasing. Currently working towards mastering **DevOps** and **scalable backend development**.
+I'm a passionate Fullstack Developer with 1 year of startup experience. I specialize in crafting intuitive web and mobile applications using modern technologies like React, Next.js, Node.js, Flutter, and Prisma ORM. My focus is on delivering impactful digital solutions that balance functionality and aesthetics. Currently, I am mastering DevOps, scalable backend systems, and monorepo architectures to enhance performance and maintainability.
 
 
 - 🔭 I’m currently working on **Web Apps and Flutter/React Native Projects**
